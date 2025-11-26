@@ -5,7 +5,6 @@
 }
 
 
-<<<<<<< HEAD
 .inledning{
     display: grid;
     grid-template-columns: 3fr 1fr;
@@ -22,9 +21,8 @@
     color: white;
     font-size: 20px;
     margin: 50px;
-=======
+}
 .logo{
     width: 200px;
     height: auto;
->>>>>>> 9a1284412274c258084146fb899fde44cb2c44e4
 }
