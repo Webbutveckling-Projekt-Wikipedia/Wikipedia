@@ -1,9 +1,11 @@
 *{
-    background-color: rgb(0, 0, 0);
     box-sizing: border-box;
     margin: 0;
 }
 
+body{
+    background-color: rgb(0, 0, 0);
+}
 
 .inledning{
     display: grid;
@@ -25,4 +27,15 @@
 .logo{
     width: 200px;
     height: auto;
+}
+
+
+.sökruta{
+    margin: auto;   
+    margin-right: 450px ;
+}
+.Topbar{
+    display: grid;
+    grid-template-columns: 0fr 1fr 1fr;
+    
 }
