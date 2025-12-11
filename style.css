@@ -22,7 +22,7 @@ body{
     margin-top: 50px;
 }
 
-.text1, .webbensHistoria{
+.text1, .webbensHistoria, .viktigaTeknologier{
     color: white;
     font-size: 20px;
     margin: 50px;
@@ -60,9 +60,6 @@ body{
     margin: 10px;
 }
 
-.webbensHistoria{
-    color: white;
-}
 
 a{
     color: rgb(0, 153, 255);
