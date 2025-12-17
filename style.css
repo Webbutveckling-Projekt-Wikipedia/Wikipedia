@@ -67,4 +67,9 @@ a{
 
 .info{
     color: white;
+
+}
+
+#sslinfo{
+    margin-top: 10px;
 }
