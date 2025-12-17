@@ -67,9 +67,37 @@ a{
 
 .info{
     color: white;
+    width: 70%;
+    height: auto;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
 #sslinfo{
+    margin-top: 10px;
+}
+
+#dnsinfo{
+    margin-top: 10px;
+}
+
+#htmlinfo{
+    margin-top: 10px;
+}
+
+#cssinfo{
+    margin-top: 10px;
+}
+
+#cachninginfo{
+    margin-top: 10px;
+}
+
+#seoinfo{
+    margin-top: 10px;
+}
+
+#datainfo{
     margin-top: 10px;
 }
