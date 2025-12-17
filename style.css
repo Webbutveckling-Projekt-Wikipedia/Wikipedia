@@ -101,7 +101,7 @@ a{
 #datainfo{
     margin-top: 10px;
 }
-                    
+
 
 #copyrightInfo{
     margin-top: 10px;
@@ -109,4 +109,8 @@ a{
 
 .länkTillProgramering{
     margin: 40px;
+}
+
+.länken{
+    font-size: 25px;
 }
