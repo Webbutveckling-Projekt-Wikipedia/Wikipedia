@@ -10,4 +10,11 @@ body{
 .ProgrammeringsHistoria{
     color: white;
     font-size: 20px;
+    margin: 20px;
+}
+
+.AIHistoria{
+    color: white;
+    font-size: 20px;
+    margin: 20px;
 }
