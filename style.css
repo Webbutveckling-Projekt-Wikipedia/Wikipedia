@@ -114,8 +114,9 @@ a{
 
 .Ada{
      border: 2px solid rgb(255, 255, 255);
-    height: 400px;
-    width: 500px;
+    height: 350px;
+    width: 350px;
     margin-right: 50px;
     margin-top: 50px;
+    color: white;
 }
