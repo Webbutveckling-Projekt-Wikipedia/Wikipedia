@@ -103,12 +103,20 @@ a{
 #datainfo{
     margin-top: 10px;
 }
-                    
+
 
 #copyrightInfo{
     margin-top: 10px;
 }
 
+.länkTillProgramering{
+    margin: 40px;
+}
+
+.länken{
+    font-size: 25px;
+
+}
 .ProgrammeringsHistoria{
     color: white;
     font-size: 20px;
@@ -116,8 +124,9 @@ a{
 
 .Ada{
      border: 2px solid rgb(255, 255, 255);
-    height: 400px;
-    width: 500px;
+    height: 350px;
+    width: 350px;
     margin-right: 50px;
     margin-top: 50px;
+    color: white;
 }
